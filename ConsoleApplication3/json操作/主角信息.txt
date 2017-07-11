@@ -1,0 +1,10 @@
+﻿{
+"Name":"isscuss",
+"Level":26,
+"Age":233,
+"skillList":[//对象中包含数组，数组中又包含对象
+{"id":2,"name":"天下无敌","damage":123},
+{"id":3,"name":"简直无情","damage":366},
+{"id":4,"name":"什么东西","damage":788}
+             ]
+}

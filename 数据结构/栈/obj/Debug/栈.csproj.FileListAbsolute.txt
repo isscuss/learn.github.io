@@ -1,0 +1,6 @@
+E:\C#\数据结构\栈\bin\Debug\栈.exe.config
+E:\C#\数据结构\栈\bin\Debug\栈.exe
+E:\C#\数据结构\栈\bin\Debug\栈.pdb
+E:\C#\数据结构\栈\obj\Debug\栈.csprojResolveAssemblyReference.cache
+E:\C#\数据结构\栈\obj\Debug\栈.exe
+E:\C#\数据结构\栈\obj\Debug\栈.pdb

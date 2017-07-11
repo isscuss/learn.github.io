@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication1\for循环和循环的嵌套调用\bin\Debug\for循环和循环的嵌套调用.exe.config
+E:\C#\ConsoleApplication1\for循环和循环的嵌套调用\bin\Debug\for循环和循环的嵌套调用.exe
+E:\C#\ConsoleApplication1\for循环和循环的嵌套调用\bin\Debug\for循环和循环的嵌套调用.pdb
+E:\C#\ConsoleApplication1\for循环和循环的嵌套调用\obj\Debug\for循环和循环的嵌套调用.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication1\for循环和循环的嵌套调用\obj\Debug\for循环和循环的嵌套调用.exe
+E:\C#\ConsoleApplication1\for循环和循环的嵌套调用\obj\Debug\for循环和循环的嵌套调用.pdb

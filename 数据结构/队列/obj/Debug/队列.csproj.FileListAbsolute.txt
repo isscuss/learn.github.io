@@ -1,0 +1,6 @@
+E:\C#\数据结构\队列\bin\Debug\队列.exe.config
+E:\C#\数据结构\队列\bin\Debug\队列.exe
+E:\C#\数据结构\队列\bin\Debug\队列.pdb
+E:\C#\数据结构\队列\obj\Debug\队列.csprojResolveAssemblyReference.cache
+E:\C#\数据结构\队列\obj\Debug\队列.exe
+E:\C#\数据结构\队列\obj\Debug\队列.pdb

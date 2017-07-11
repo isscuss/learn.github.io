@@ -1,0 +1,7 @@
+E:\C#\ConsoleApplication3\Excel操作\bin\Debug\Excel操作.exe.config
+E:\C#\ConsoleApplication3\Excel操作\bin\Debug\装备信息.xls
+E:\C#\ConsoleApplication3\Excel操作\bin\Debug\Excel操作.exe
+E:\C#\ConsoleApplication3\Excel操作\bin\Debug\Excel操作.pdb
+E:\C#\ConsoleApplication3\Excel操作\obj\Debug\Excel操作.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\Excel操作\obj\Debug\Excel操作.exe
+E:\C#\ConsoleApplication3\Excel操作\obj\Debug\Excel操作.pdb

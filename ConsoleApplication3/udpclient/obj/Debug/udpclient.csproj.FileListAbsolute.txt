@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication3\udpclient\bin\Debug\udpclient.exe.config
+E:\C#\ConsoleApplication3\udpclient\bin\Debug\udpclient.exe
+E:\C#\ConsoleApplication3\udpclient\bin\Debug\udpclient.pdb
+E:\C#\ConsoleApplication3\udpclient\obj\Debug\udpclient.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\udpclient\obj\Debug\udpclient.exe
+E:\C#\ConsoleApplication3\udpclient\obj\Debug\udpclient.pdb

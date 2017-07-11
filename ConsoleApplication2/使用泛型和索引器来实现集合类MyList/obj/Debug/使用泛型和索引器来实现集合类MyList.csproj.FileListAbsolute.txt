@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication2\使用泛型和索引器来实现集合类MyList\bin\Debug\使用泛型和索引器来实现集合类MyList.exe.config
+E:\C#\ConsoleApplication2\使用泛型和索引器来实现集合类MyList\bin\Debug\使用泛型和索引器来实现集合类MyList.exe
+E:\C#\ConsoleApplication2\使用泛型和索引器来实现集合类MyList\bin\Debug\使用泛型和索引器来实现集合类MyList.pdb
+E:\C#\ConsoleApplication2\使用泛型和索引器来实现集合类MyList\obj\Debug\使用泛型和索引器来实现集合类MyList.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication2\使用泛型和索引器来实现集合类MyList\obj\Debug\使用泛型和索引器来实现集合类MyList.exe
+E:\C#\ConsoleApplication2\使用泛型和索引器来实现集合类MyList\obj\Debug\使用泛型和索引器来实现集合类MyList.pdb

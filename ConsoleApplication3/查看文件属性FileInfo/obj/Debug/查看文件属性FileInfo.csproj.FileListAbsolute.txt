@@ -1,0 +1,7 @@
+E:\C#\ConsoleApplication3\查看文件属性FileInfo\bin\Debug\查看文件属性FileInfo.exe.config
+E:\C#\ConsoleApplication3\查看文件属性FileInfo\bin\Debug\查看文件属性FileInfo.exe
+E:\C#\ConsoleApplication3\查看文件属性FileInfo\bin\Debug\查看文件属性FileInfo.pdb
+E:\C#\ConsoleApplication3\查看文件属性FileInfo\obj\Debug\查看文件属性FileInfo.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\查看文件属性FileInfo\obj\Debug\查看文件属性FileInfo.exe
+E:\C#\ConsoleApplication3\查看文件属性FileInfo\obj\Debug\查看文件属性FileInfo.pdb
+E:\C#\ConsoleApplication3\查看文件属性FileInfo\bin\Debug\TextFile1.txt

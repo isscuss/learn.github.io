@@ -1,0 +1,7 @@
+E:\C#\ConsoleApplication3\实战xml案例解析\bin\Debug\实战xml案例解析.exe.config
+E:\C#\ConsoleApplication3\实战xml案例解析\bin\Debug\实战xml案例解析.exe
+E:\C#\ConsoleApplication3\实战xml案例解析\bin\Debug\实战xml案例解析.pdb
+E:\C#\ConsoleApplication3\实战xml案例解析\obj\Debug\实战xml案例解析.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\实战xml案例解析\obj\Debug\实战xml案例解析.exe
+E:\C#\ConsoleApplication3\实战xml案例解析\obj\Debug\实战xml案例解析.pdb
+E:\C#\ConsoleApplication3\实战xml案例解析\bin\Debug\xml技能信息.txt

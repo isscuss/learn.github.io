@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication3\tcplistener\bin\Debug\tcplistener.exe.config
+E:\C#\ConsoleApplication3\tcplistener\bin\Debug\tcplistener.exe
+E:\C#\ConsoleApplication3\tcplistener\bin\Debug\tcplistener.pdb
+E:\C#\ConsoleApplication3\tcplistener\obj\Debug\tcplistener.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\tcplistener\obj\Debug\tcplistener.exe
+E:\C#\ConsoleApplication3\tcplistener\obj\Debug\tcplistener.pdb

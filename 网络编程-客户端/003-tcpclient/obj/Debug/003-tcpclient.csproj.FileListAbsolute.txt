@@ -1,0 +1,5 @@
+E:\C#\网络编程-客户端\003-tcpclient\bin\Debug\003-tcpclient.exe.config
+E:\C#\网络编程-客户端\003-tcpclient\bin\Debug\003-tcpclient.exe
+E:\C#\网络编程-客户端\003-tcpclient\bin\Debug\003-tcpclient.pdb
+E:\C#\网络编程-客户端\003-tcpclient\obj\Debug\003-tcpclient.exe
+E:\C#\网络编程-客户端\003-tcpclient\obj\Debug\003-tcpclient.pdb

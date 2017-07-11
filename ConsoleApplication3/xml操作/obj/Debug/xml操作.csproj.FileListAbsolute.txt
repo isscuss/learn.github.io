@@ -1,0 +1,7 @@
+E:\C#\ConsoleApplication3\xml操作\bin\Debug\xml操作.exe.config
+E:\C#\ConsoleApplication3\xml操作\bin\Debug\skillinfo.txt
+E:\C#\ConsoleApplication3\xml操作\bin\Debug\xml操作.exe
+E:\C#\ConsoleApplication3\xml操作\bin\Debug\xml操作.pdb
+E:\C#\ConsoleApplication3\xml操作\obj\Debug\xml操作.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\xml操作\obj\Debug\xml操作.exe
+E:\C#\ConsoleApplication3\xml操作\obj\Debug\xml操作.pdb

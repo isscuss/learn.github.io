@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication1\数组\bin\Debug\数组.exe.config
+E:\C#\ConsoleApplication1\数组\obj\Debug\数组.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication1\数组\bin\Debug\数组.exe
+E:\C#\ConsoleApplication1\数组\bin\Debug\数组.pdb
+E:\C#\ConsoleApplication1\数组\obj\Debug\数组.exe
+E:\C#\ConsoleApplication1\数组\obj\Debug\数组.pdb

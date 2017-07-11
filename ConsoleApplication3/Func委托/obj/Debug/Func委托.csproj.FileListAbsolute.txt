@@ -1,0 +1,5 @@
+E:\C#\ConsoleApplication3\Func委托\bin\Debug\Func委托.exe.config
+E:\C#\ConsoleApplication3\Func委托\bin\Debug\Func委托.exe
+E:\C#\ConsoleApplication3\Func委托\bin\Debug\Func委托.pdb
+E:\C#\ConsoleApplication3\Func委托\obj\Debug\Func委托.exe
+E:\C#\ConsoleApplication3\Func委托\obj\Debug\Func委托.pdb

@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication1\结构函数\bin\Debug\结构函数.exe.config
+E:\C#\ConsoleApplication1\结构函数\bin\Debug\结构函数.exe
+E:\C#\ConsoleApplication1\结构函数\bin\Debug\结构函数.pdb
+E:\C#\ConsoleApplication1\结构函数\obj\Debug\结构函数.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication1\结构函数\obj\Debug\结构函数.exe
+E:\C#\ConsoleApplication1\结构函数\obj\Debug\结构函数.pdb

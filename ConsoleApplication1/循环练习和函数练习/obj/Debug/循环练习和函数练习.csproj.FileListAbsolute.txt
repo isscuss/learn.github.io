@@ -1,0 +1,5 @@
+E:\C#\ConsoleApplication1\循环练习和函数练习\bin\Debug\循环练习和函数练习.exe.config
+E:\C#\ConsoleApplication1\循环练习和函数练习\bin\Debug\循环练习和函数练习.exe
+E:\C#\ConsoleApplication1\循环练习和函数练习\bin\Debug\循环练习和函数练习.pdb
+E:\C#\ConsoleApplication1\循环练习和函数练习\obj\Debug\循环练习和函数练习.exe
+E:\C#\ConsoleApplication1\循环练习和函数练习\obj\Debug\循环练习和函数练习.pdb

@@ -1,0 +1,5 @@
+E:\C#\ConsoleApplication2\操作列表的属性和方法\bin\Debug\操作列表的属性和方法.exe.config
+E:\C#\ConsoleApplication2\操作列表的属性和方法\bin\Debug\操作列表的属性和方法.exe
+E:\C#\ConsoleApplication2\操作列表的属性和方法\bin\Debug\操作列表的属性和方法.pdb
+E:\C#\ConsoleApplication2\操作列表的属性和方法\obj\Debug\操作列表的属性和方法.exe
+E:\C#\ConsoleApplication2\操作列表的属性和方法\obj\Debug\操作列表的属性和方法.pdb

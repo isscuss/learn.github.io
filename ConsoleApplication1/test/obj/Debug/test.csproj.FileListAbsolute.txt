@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication1\test\bin\Debug\test.exe.config
+E:\C#\ConsoleApplication1\test\bin\Debug\test.exe
+E:\C#\ConsoleApplication1\test\bin\Debug\test.pdb
+E:\C#\ConsoleApplication1\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication1\test\obj\Debug\test.exe
+E:\C#\ConsoleApplication1\test\obj\Debug\test.pdb

@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication1\for循环嵌套调用和随机数的生成\bin\Debug\for循环嵌套调用和随机数的生成.exe.config
+E:\C#\ConsoleApplication1\for循环嵌套调用和随机数的生成\bin\Debug\for循环嵌套调用和随机数的生成.exe
+E:\C#\ConsoleApplication1\for循环嵌套调用和随机数的生成\bin\Debug\for循环嵌套调用和随机数的生成.pdb
+E:\C#\ConsoleApplication1\for循环嵌套调用和随机数的生成\obj\Debug\for循环嵌套调用和随机数的生成.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication1\for循环嵌套调用和随机数的生成\obj\Debug\for循环嵌套调用和随机数的生成.exe
+E:\C#\ConsoleApplication1\for循环嵌套调用和随机数的生成\obj\Debug\for循环嵌套调用和随机数的生成.pdb

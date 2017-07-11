@@ -1,0 +1,1 @@
+E:\C#\ConsoleApplication3\匿名方法\bin\Debug\匿名方法.exe.config

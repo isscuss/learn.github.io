@@ -1,0 +1,5 @@
+E:\C#\ConsoleApplication1\布尔运算\bin\Debug\布尔运算.exe.config
+E:\C#\ConsoleApplication1\布尔运算\bin\Debug\布尔运算.exe
+E:\C#\ConsoleApplication1\布尔运算\bin\Debug\布尔运算.pdb
+E:\C#\ConsoleApplication1\布尔运算\obj\Debug\布尔运算.exe
+E:\C#\ConsoleApplication1\布尔运算\obj\Debug\布尔运算.pdb

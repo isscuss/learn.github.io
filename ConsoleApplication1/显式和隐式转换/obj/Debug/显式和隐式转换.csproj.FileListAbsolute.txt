@@ -1,0 +1,5 @@
+E:\C#\ConsoleApplication1\显式和隐式转换\bin\Debug\显式和隐式转换.exe.config
+E:\C#\ConsoleApplication1\显式和隐式转换\bin\Debug\显式和隐式转换.exe
+E:\C#\ConsoleApplication1\显式和隐式转换\bin\Debug\显式和隐式转换.pdb
+E:\C#\ConsoleApplication1\显式和隐式转换\obj\Debug\显式和隐式转换.exe
+E:\C#\ConsoleApplication1\显式和隐式转换\obj\Debug\显式和隐式转换.pdb

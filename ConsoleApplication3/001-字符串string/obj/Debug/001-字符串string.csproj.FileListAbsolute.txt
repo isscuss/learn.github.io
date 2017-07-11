@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication3\001-字符串string\bin\Debug\001-字符串string.exe.config
+E:\C#\ConsoleApplication3\001-字符串string\bin\Debug\001-字符串string.exe
+E:\C#\ConsoleApplication3\001-字符串string\bin\Debug\001-字符串string.pdb
+E:\C#\ConsoleApplication3\001-字符串string\obj\Debug\001-字符串string.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\001-字符串string\obj\Debug\001-字符串string.exe
+E:\C#\ConsoleApplication3\001-字符串string\obj\Debug\001-字符串string.pdb

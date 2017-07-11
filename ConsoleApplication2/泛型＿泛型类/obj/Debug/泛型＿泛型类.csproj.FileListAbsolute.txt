@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication2\泛型＿泛型类\bin\Debug\泛型＿泛型类.exe.config
+E:\C#\ConsoleApplication2\泛型＿泛型类\bin\Debug\泛型＿泛型类.exe
+E:\C#\ConsoleApplication2\泛型＿泛型类\bin\Debug\泛型＿泛型类.pdb
+E:\C#\ConsoleApplication2\泛型＿泛型类\obj\Debug\泛型＿泛型类.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication2\泛型＿泛型类\obj\Debug\泛型＿泛型类.exe
+E:\C#\ConsoleApplication2\泛型＿泛型类\obj\Debug\泛型＿泛型类.pdb

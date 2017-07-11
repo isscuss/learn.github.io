@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication1\输入数字，显示和\bin\Debug\输入数字，显示和.exe.config
+E:\C#\ConsoleApplication1\输入数字，显示和\obj\Debug\输入数字，显示和.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication1\输入数字，显示和\bin\Debug\输入数字，显示和.exe
+E:\C#\ConsoleApplication1\输入数字，显示和\bin\Debug\输入数字，显示和.pdb
+E:\C#\ConsoleApplication1\输入数字，显示和\obj\Debug\输入数字，显示和.exe
+E:\C#\ConsoleApplication1\输入数字，显示和\obj\Debug\输入数字，显示和.pdb

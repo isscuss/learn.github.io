@@ -1,0 +1,5 @@
+E:\C#\ConsoleApplication1\读取用户输入的字符串和数字\bin\Debug\读取用户输入的字符串和数字.exe.config
+E:\C#\ConsoleApplication1\读取用户输入的字符串和数字\bin\Debug\读取用户输入的字符串和数字.exe
+E:\C#\ConsoleApplication1\读取用户输入的字符串和数字\bin\Debug\读取用户输入的字符串和数字.pdb
+E:\C#\ConsoleApplication1\读取用户输入的字符串和数字\obj\Debug\读取用户输入的字符串和数字.exe
+E:\C#\ConsoleApplication1\读取用户输入的字符串和数字\obj\Debug\读取用户输入的字符串和数字.pdb

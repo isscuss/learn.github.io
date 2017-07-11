@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication3\正则表达式\bin\Debug\正则表达式.exe.config
+E:\C#\ConsoleApplication3\正则表达式\bin\Debug\正则表达式.exe
+E:\C#\ConsoleApplication3\正则表达式\bin\Debug\正则表达式.pdb
+E:\C#\ConsoleApplication3\正则表达式\obj\Debug\正则表达式.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\正则表达式\obj\Debug\正则表达式.exe
+E:\C#\ConsoleApplication3\正则表达式\obj\Debug\正则表达式.pdb

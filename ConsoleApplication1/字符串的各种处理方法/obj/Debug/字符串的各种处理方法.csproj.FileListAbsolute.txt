@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication1\字符串的各种处理方法\bin\Debug\字符串的各种处理方法.exe.config
+E:\C#\ConsoleApplication1\字符串的各种处理方法\bin\Debug\字符串的各种处理方法.exe
+E:\C#\ConsoleApplication1\字符串的各种处理方法\bin\Debug\字符串的各种处理方法.pdb
+E:\C#\ConsoleApplication1\字符串的各种处理方法\obj\Debug\字符串的各种处理方法.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication1\字符串的各种处理方法\obj\Debug\字符串的各种处理方法.exe
+E:\C#\ConsoleApplication1\字符串的各种处理方法\obj\Debug\字符串的各种处理方法.pdb

@@ -1,0 +1,5 @@
+E:\C#\网络编程-客户端\002-udp协议-客户端\bin\Debug\002-udp协议-客户端.exe.config
+E:\C#\网络编程-客户端\002-udp协议-客户端\bin\Debug\002-udp协议-客户端.exe
+E:\C#\网络编程-客户端\002-udp协议-客户端\bin\Debug\002-udp协议-客户端.pdb
+E:\C#\网络编程-客户端\002-udp协议-客户端\obj\Debug\002-udp协议-客户端.exe
+E:\C#\网络编程-客户端\002-udp协议-客户端\obj\Debug\002-udp协议-客户端.pdb

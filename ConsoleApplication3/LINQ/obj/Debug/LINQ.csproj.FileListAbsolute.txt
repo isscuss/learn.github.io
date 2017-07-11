@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication3\LINQ\bin\Debug\LINQ.exe.config
+E:\C#\ConsoleApplication3\LINQ\bin\Debug\LINQ.exe
+E:\C#\ConsoleApplication3\LINQ\bin\Debug\LINQ.pdb
+E:\C#\ConsoleApplication3\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\LINQ\obj\Debug\LINQ.exe
+E:\C#\ConsoleApplication3\LINQ\obj\Debug\LINQ.pdb

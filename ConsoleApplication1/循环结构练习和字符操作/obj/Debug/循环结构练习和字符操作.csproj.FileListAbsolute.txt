@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication1\循环结构练习和字符操作\bin\Debug\循环结构练习和字符操作.exe.config
+E:\C#\ConsoleApplication1\循环结构练习和字符操作\bin\Debug\循环结构练习和字符操作.exe
+E:\C#\ConsoleApplication1\循环结构练习和字符操作\bin\Debug\循环结构练习和字符操作.pdb
+E:\C#\ConsoleApplication1\循环结构练习和字符操作\obj\Debug\循环结构练习和字符操作.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication1\循环结构练习和字符操作\obj\Debug\循环结构练习和字符操作.exe
+E:\C#\ConsoleApplication1\循环结构练习和字符操作\obj\Debug\循环结构练习和字符操作.pdb

@@ -1,0 +1,5 @@
+E:\C#\ConsoleApplication1\while循环\bin\Debug\while循环.exe.config
+E:\C#\ConsoleApplication1\while循环\bin\Debug\while循环.exe
+E:\C#\ConsoleApplication1\while循环\bin\Debug\while循环.pdb
+E:\C#\ConsoleApplication1\while循环\obj\Debug\while循环.exe
+E:\C#\ConsoleApplication1\while循环\obj\Debug\while循环.pdb

@@ -1,0 +1,5 @@
+E:\C#\ConsoleApplication1\goto语句\bin\Debug\goto语句.exe.config
+E:\C#\ConsoleApplication1\goto语句\bin\Debug\goto语句.exe
+E:\C#\ConsoleApplication1\goto语句\bin\Debug\goto语句.pdb
+E:\C#\ConsoleApplication1\goto语句\obj\Debug\goto语句.exe
+E:\C#\ConsoleApplication1\goto语句\obj\Debug\goto语句.pdb

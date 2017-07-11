@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication1\函数的定义\bin\Debug\函数的定义.exe.config
+E:\C#\ConsoleApplication1\函数的定义\bin\Debug\函数的定义.exe
+E:\C#\ConsoleApplication1\函数的定义\bin\Debug\函数的定义.pdb
+E:\C#\ConsoleApplication1\函数的定义\obj\Debug\函数的定义.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication1\函数的定义\obj\Debug\函数的定义.exe
+E:\C#\ConsoleApplication1\函数的定义\obj\Debug\函数的定义.pdb

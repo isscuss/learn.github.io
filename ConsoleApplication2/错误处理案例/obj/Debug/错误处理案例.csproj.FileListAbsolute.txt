@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication2\错误处理案例\bin\Debug\错误处理案例.exe.config
+E:\C#\ConsoleApplication2\错误处理案例\bin\Debug\错误处理案例.exe
+E:\C#\ConsoleApplication2\错误处理案例\bin\Debug\错误处理案例.pdb
+E:\C#\ConsoleApplication2\错误处理案例\obj\Debug\错误处理案例.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication2\错误处理案例\obj\Debug\错误处理案例.exe
+E:\C#\ConsoleApplication2\错误处理案例\obj\Debug\错误处理案例.pdb

@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication1\循环练习2\bin\Debug\循环练习2.exe.config
+E:\C#\ConsoleApplication1\循环练习2\bin\Debug\循环练习2.exe
+E:\C#\ConsoleApplication1\循环练习2\bin\Debug\循环练习2.pdb
+E:\C#\ConsoleApplication1\循环练习2\obj\Debug\循环练习2.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication1\循环练习2\obj\Debug\循环练习2.exe
+E:\C#\ConsoleApplication1\循环练习2\obj\Debug\循环练习2.pdb

@@ -1,0 +1,2 @@
+E:\C#\数据结构\gg\bin\Debug\gg.exe.config
+E:\C#\数据结构\gg\obj\Debug\gg.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication1\参数数组\bin\Debug\参数数组.exe.config
+E:\C#\ConsoleApplication1\参数数组\bin\Debug\参数数组.exe
+E:\C#\ConsoleApplication1\参数数组\bin\Debug\参数数组.pdb
+E:\C#\ConsoleApplication1\参数数组\obj\Debug\参数数组.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication1\参数数组\obj\Debug\参数数组.exe
+E:\C#\ConsoleApplication1\参数数组\obj\Debug\参数数组.pdb

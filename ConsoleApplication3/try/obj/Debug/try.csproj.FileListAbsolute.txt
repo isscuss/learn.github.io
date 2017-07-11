@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication3\try\bin\Debug\@try.exe.config
+E:\C#\ConsoleApplication3\try\bin\Debug\@try.exe
+E:\C#\ConsoleApplication3\try\bin\Debug\@try.pdb
+E:\C#\ConsoleApplication3\try\obj\Debug\try.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\try\obj\Debug\@try.exe
+E:\C#\ConsoleApplication3\try\obj\Debug\@try.pdb

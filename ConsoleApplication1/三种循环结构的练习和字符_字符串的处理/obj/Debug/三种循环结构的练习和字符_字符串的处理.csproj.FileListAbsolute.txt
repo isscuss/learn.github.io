@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication1\三种循环结构的练习和字符_字符串的处理\bin\Debug\三种循环结构的练习和字符_字符串的处理.exe.config
+E:\C#\ConsoleApplication1\三种循环结构的练习和字符_字符串的处理\bin\Debug\三种循环结构的练习和字符_字符串的处理.exe
+E:\C#\ConsoleApplication1\三种循环结构的练习和字符_字符串的处理\bin\Debug\三种循环结构的练习和字符_字符串的处理.pdb
+E:\C#\ConsoleApplication1\三种循环结构的练习和字符_字符串的处理\obj\Debug\三种循环结构的练习和字符_字符串的处理.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication1\三种循环结构的练习和字符_字符串的处理\obj\Debug\三种循环结构的练习和字符_字符串的处理.exe
+E:\C#\ConsoleApplication1\三种循环结构的练习和字符_字符串的处理\obj\Debug\三种循环结构的练习和字符_字符串的处理.pdb

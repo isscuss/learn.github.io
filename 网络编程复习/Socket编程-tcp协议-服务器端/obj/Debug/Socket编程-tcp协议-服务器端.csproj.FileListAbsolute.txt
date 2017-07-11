@@ -1,0 +1,6 @@
+E:\C#\网络编程复习\Socket编程-tcp协议-服务器端\bin\Debug\Socket编程-tcp协议-服务器端.exe.config
+E:\C#\网络编程复习\Socket编程-tcp协议-服务器端\bin\Debug\Socket编程-tcp协议-服务器端.exe
+E:\C#\网络编程复习\Socket编程-tcp协议-服务器端\bin\Debug\Socket编程-tcp协议-服务器端.pdb
+E:\C#\网络编程复习\Socket编程-tcp协议-服务器端\obj\Debug\Socket编程-tcp协议-服务器端.csprojResolveAssemblyReference.cache
+E:\C#\网络编程复习\Socket编程-tcp协议-服务器端\obj\Debug\Socket编程-tcp协议-服务器端.exe
+E:\C#\网络编程复习\Socket编程-tcp协议-服务器端\obj\Debug\Socket编程-tcp协议-服务器端.pdb

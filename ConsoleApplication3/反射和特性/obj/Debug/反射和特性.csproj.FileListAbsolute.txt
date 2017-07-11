@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication3\反射和特性\bin\Debug\反射和特性.exe.config
+E:\C#\ConsoleApplication3\反射和特性\bin\Debug\反射和特性.exe
+E:\C#\ConsoleApplication3\反射和特性\bin\Debug\反射和特性.pdb
+E:\C#\ConsoleApplication3\反射和特性\obj\Debug\反射和特性.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\反射和特性\obj\Debug\反射和特性.exe
+E:\C#\ConsoleApplication3\反射和特性\obj\Debug\反射和特性.pdb

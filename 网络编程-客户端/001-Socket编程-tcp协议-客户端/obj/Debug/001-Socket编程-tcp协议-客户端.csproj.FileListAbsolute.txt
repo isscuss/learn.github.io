@@ -1,0 +1,8 @@
+E:\C#\网络编程-客户端\001-Socket编程-tcp协议-客户端\bin\Debug\001-Socket编程-tcp协议-客户端.exe.config
+E:\C#\网络编程-客户端\001-Socket编程-tcp协议-客户端\bin\Debug\001-Socket编程-tcp协议-客户端.exe
+E:\C#\网络编程-客户端\001-Socket编程-tcp协议-客户端\bin\Debug\001-Socket编程-tcp协议-客户端.pdb
+E:\C#\网络编程-客户端\001-Socket编程-tcp协议-客户端\obj\Debug\001-Socket编程-tcp协议-客户端.exe
+E:\C#\网络编程-客户端\001-Socket编程-tcp协议-客户端\obj\Debug\001-Socket编程-tcp协议-客户端.pdb
+C:\code\C#\网络编程-客户端\001-Socket编程-tcp协议-客户端\bin\Debug\001-Socket编程-tcp协议-客户端.exe.config
+C:\code\C#\网络编程-客户端\001-Socket编程-tcp协议-客户端\obj\Debug\001-Socket编程-tcp协议-客户端.exe
+C:\code\C#\网络编程-客户端\001-Socket编程-tcp协议-客户端\obj\Debug\001-Socket编程-tcp协议-客户端.pdb

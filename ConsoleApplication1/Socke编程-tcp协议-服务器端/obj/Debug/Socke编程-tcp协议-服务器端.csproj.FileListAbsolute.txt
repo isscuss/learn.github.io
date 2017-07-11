@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication1\Socke编程-tcp协议-服务器端\bin\Debug\Socke编程-tcp协议-服务器端.exe.config
+E:\C#\ConsoleApplication1\Socke编程-tcp协议-服务器端\bin\Debug\Socke编程-tcp协议-服务器端.exe
+E:\C#\ConsoleApplication1\Socke编程-tcp协议-服务器端\bin\Debug\Socke编程-tcp协议-服务器端.pdb
+E:\C#\ConsoleApplication1\Socke编程-tcp协议-服务器端\obj\Debug\Socke编程-tcp协议-服务器端.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication1\Socke编程-tcp协议-服务器端\obj\Debug\Socke编程-tcp协议-服务器端.exe
+E:\C#\ConsoleApplication1\Socke编程-tcp协议-服务器端\obj\Debug\Socke编程-tcp协议-服务器端.pdb

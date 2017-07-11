@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication3\冒泡排序扩展\bin\Debug\冒泡排序扩展.exe.config
+E:\C#\ConsoleApplication3\冒泡排序扩展\bin\Debug\冒泡排序扩展.exe
+E:\C#\ConsoleApplication3\冒泡排序扩展\bin\Debug\冒泡排序扩展.pdb
+E:\C#\ConsoleApplication3\冒泡排序扩展\obj\Debug\冒泡排序扩展.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\冒泡排序扩展\obj\Debug\冒泡排序扩展.exe
+E:\C#\ConsoleApplication3\冒泡排序扩展\obj\Debug\冒泡排序扩展.pdb

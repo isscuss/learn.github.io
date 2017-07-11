@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication1\switch语句\bin\Debug\switch语句.exe.config
+E:\C#\ConsoleApplication1\switch语句\bin\Debug\switch语句.exe
+E:\C#\ConsoleApplication1\switch语句\bin\Debug\switch语句.pdb
+E:\C#\ConsoleApplication1\switch语句\obj\Debug\switch语句.exe
+E:\C#\ConsoleApplication1\switch语句\obj\Debug\switch语句.pdb
+E:\C#\ConsoleApplication1\switch语句\obj\Debug\switch语句.csprojResolveAssemblyReference.cache

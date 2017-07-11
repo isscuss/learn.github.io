@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication2\类的定义和声明\bin\Debug\类的定义和声明.exe.config
+E:\C#\ConsoleApplication2\类的定义和声明\bin\Debug\类的定义和声明.exe
+E:\C#\ConsoleApplication2\类的定义和声明\bin\Debug\类的定义和声明.pdb
+E:\C#\ConsoleApplication2\类的定义和声明\obj\Debug\类的定义和声明.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication2\类的定义和声明\obj\Debug\类的定义和声明.exe
+E:\C#\ConsoleApplication2\类的定义和声明\obj\Debug\类的定义和声明.pdb

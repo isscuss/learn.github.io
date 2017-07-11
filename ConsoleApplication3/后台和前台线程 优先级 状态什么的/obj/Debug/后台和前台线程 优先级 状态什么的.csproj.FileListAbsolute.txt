@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication3\后台和前台线程 优先级 状态什么的\bin\Debug\后台和前台线程 优先级 状态什么的.exe.config
+E:\C#\ConsoleApplication3\后台和前台线程 优先级 状态什么的\bin\Debug\后台和前台线程 优先级 状态什么的.exe
+E:\C#\ConsoleApplication3\后台和前台线程 优先级 状态什么的\bin\Debug\后台和前台线程 优先级 状态什么的.pdb
+E:\C#\ConsoleApplication3\后台和前台线程 优先级 状态什么的\obj\Debug\后台和前台线程 优先级 状态什么的.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\后台和前台线程 优先级 状态什么的\obj\Debug\后台和前台线程 优先级 状态什么的.exe
+E:\C#\ConsoleApplication3\后台和前台线程 优先级 状态什么的\obj\Debug\后台和前台线程 优先级 状态什么的.pdb

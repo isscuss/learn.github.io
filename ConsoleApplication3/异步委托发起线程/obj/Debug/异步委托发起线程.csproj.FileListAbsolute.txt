@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication3\异步委托发起线程\bin\Debug\异步委托发起线程.exe.config
+E:\C#\ConsoleApplication3\异步委托发起线程\bin\Debug\异步委托发起线程.exe
+E:\C#\ConsoleApplication3\异步委托发起线程\bin\Debug\异步委托发起线程.pdb
+E:\C#\ConsoleApplication3\异步委托发起线程\obj\Debug\异步委托发起线程.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\异步委托发起线程\obj\Debug\异步委托发起线程.exe
+E:\C#\ConsoleApplication3\异步委托发起线程\obj\Debug\异步委托发起线程.pdb

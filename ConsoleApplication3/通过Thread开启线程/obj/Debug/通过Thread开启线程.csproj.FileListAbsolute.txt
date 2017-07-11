@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication3\通过Thread开启线程\bin\Debug\通过Thread开启线程.exe.config
+E:\C#\ConsoleApplication3\通过Thread开启线程\bin\Debug\通过Thread开启线程.exe
+E:\C#\ConsoleApplication3\通过Thread开启线程\bin\Debug\通过Thread开启线程.pdb
+E:\C#\ConsoleApplication3\通过Thread开启线程\obj\Debug\通过Thread开启线程.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\通过Thread开启线程\obj\Debug\通过Thread开启线程.exe
+E:\C#\ConsoleApplication3\通过Thread开启线程\obj\Debug\通过Thread开启线程.pdb

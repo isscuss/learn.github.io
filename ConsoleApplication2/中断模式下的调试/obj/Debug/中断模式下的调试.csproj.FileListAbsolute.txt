@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication2\中断模式下的调试\bin\Debug\中断模式下的调试.exe.config
+E:\C#\ConsoleApplication2\中断模式下的调试\bin\Debug\中断模式下的调试.exe
+E:\C#\ConsoleApplication2\中断模式下的调试\bin\Debug\中断模式下的调试.pdb
+E:\C#\ConsoleApplication2\中断模式下的调试\obj\Debug\中断模式下的调试.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication2\中断模式下的调试\obj\Debug\中断模式下的调试.exe
+E:\C#\ConsoleApplication2\中断模式下的调试\obj\Debug\中断模式下的调试.pdb

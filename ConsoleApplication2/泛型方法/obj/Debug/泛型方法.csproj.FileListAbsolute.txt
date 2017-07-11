@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication2\泛型方法\bin\Debug\泛型方法.exe.config
+E:\C#\ConsoleApplication2\泛型方法\bin\Debug\泛型方法.exe
+E:\C#\ConsoleApplication2\泛型方法\bin\Debug\泛型方法.pdb
+E:\C#\ConsoleApplication2\泛型方法\obj\Debug\泛型方法.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication2\泛型方法\obj\Debug\泛型方法.exe
+E:\C#\ConsoleApplication2\泛型方法\obj\Debug\泛型方法.pdb

@@ -1,0 +1,6 @@
+E:\C#\网络编程-客户端\004-udpclient\bin\Debug\004-udpclient.exe.config
+E:\C#\网络编程-客户端\004-udpclient\bin\Debug\004-udpclient.exe
+E:\C#\网络编程-客户端\004-udpclient\bin\Debug\004-udpclient.pdb
+E:\C#\网络编程-客户端\004-udpclient\obj\Debug\004-udpclient.csprojResolveAssemblyReference.cache
+E:\C#\网络编程-客户端\004-udpclient\obj\Debug\004-udpclient.exe
+E:\C#\网络编程-客户端\004-udpclient\obj\Debug\004-udpclient.pdb

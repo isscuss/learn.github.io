@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication3\线程争用问题\bin\Debug\线程争用问题.exe.config
+E:\C#\ConsoleApplication3\线程争用问题\bin\Debug\线程争用问题.exe
+E:\C#\ConsoleApplication3\线程争用问题\bin\Debug\线程争用问题.pdb
+E:\C#\ConsoleApplication3\线程争用问题\obj\Debug\线程争用问题.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\线程争用问题\obj\Debug\线程争用问题.exe
+E:\C#\ConsoleApplication3\线程争用问题\obj\Debug\线程争用问题.pdb

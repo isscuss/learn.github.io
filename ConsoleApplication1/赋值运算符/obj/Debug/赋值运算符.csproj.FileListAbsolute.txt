@@ -1,0 +1,5 @@
+E:\C#\ConsoleApplication1\赋值运算符\bin\Debug\赋值运算符.exe.config
+E:\C#\ConsoleApplication1\赋值运算符\bin\Debug\赋值运算符.exe
+E:\C#\ConsoleApplication1\赋值运算符\bin\Debug\赋值运算符.pdb
+E:\C#\ConsoleApplication1\赋值运算符\obj\Debug\赋值运算符.exe
+E:\C#\ConsoleApplication1\赋值运算符\obj\Debug\赋值运算符.pdb

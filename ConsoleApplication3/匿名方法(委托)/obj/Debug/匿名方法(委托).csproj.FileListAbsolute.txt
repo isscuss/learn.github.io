@@ -1,0 +1,5 @@
+E:\C#\ConsoleApplication3\匿名方法(委托)\bin\Debug\匿名方法(委托).exe.config
+E:\C#\ConsoleApplication3\匿名方法(委托)\bin\Debug\匿名方法(委托).exe
+E:\C#\ConsoleApplication3\匿名方法(委托)\bin\Debug\匿名方法(委托).pdb
+E:\C#\ConsoleApplication3\匿名方法(委托)\obj\Debug\匿名方法(委托).exe
+E:\C#\ConsoleApplication3\匿名方法(委托)\obj\Debug\匿名方法(委托).pdb

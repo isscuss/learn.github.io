@@ -1,0 +1,5 @@
+E:\C#\ConsoleApplication1\运算符优先级\bin\Debug\运算符优先级.exe.config
+E:\C#\ConsoleApplication1\运算符优先级\bin\Debug\运算符优先级.exe
+E:\C#\ConsoleApplication1\运算符优先级\bin\Debug\运算符优先级.pdb
+E:\C#\ConsoleApplication1\运算符优先级\obj\Debug\运算符优先级.exe
+E:\C#\ConsoleApplication1\运算符优先级\obj\Debug\运算符优先级.pdb

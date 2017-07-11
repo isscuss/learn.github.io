@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication2\面向对象编程\bin\Debug\面向对象编程.exe.config
+E:\C#\ConsoleApplication2\面向对象编程\bin\Debug\面向对象编程.exe
+E:\C#\ConsoleApplication2\面向对象编程\bin\Debug\面向对象编程.pdb
+E:\C#\ConsoleApplication2\面向对象编程\obj\Debug\面向对象编程.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication2\面向对象编程\obj\Debug\面向对象编程.exe
+E:\C#\ConsoleApplication2\面向对象编程\obj\Debug\面向对象编程.pdb

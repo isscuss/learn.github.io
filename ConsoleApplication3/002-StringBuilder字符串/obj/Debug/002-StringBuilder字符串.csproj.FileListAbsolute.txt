@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication3\002-StringBuilder字符串\bin\Debug\002-StringBuilder字符串.exe.config
+E:\C#\ConsoleApplication3\002-StringBuilder字符串\bin\Debug\002-StringBuilder字符串.exe
+E:\C#\ConsoleApplication3\002-StringBuilder字符串\bin\Debug\002-StringBuilder字符串.pdb
+E:\C#\ConsoleApplication3\002-StringBuilder字符串\obj\Debug\002-StringBuilder字符串.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\002-StringBuilder字符串\obj\Debug\002-StringBuilder字符串.exe
+E:\C#\ConsoleApplication3\002-StringBuilder字符串\obj\Debug\002-StringBuilder字符串.pdb

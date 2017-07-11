@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication1\枚举类型\bin\Debug\枚举类型.exe.config
+E:\C#\ConsoleApplication1\枚举类型\bin\Debug\枚举类型.exe
+E:\C#\ConsoleApplication1\枚举类型\bin\Debug\枚举类型.pdb
+E:\C#\ConsoleApplication1\枚举类型\obj\Debug\枚举类型.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication1\枚举类型\obj\Debug\枚举类型.exe
+E:\C#\ConsoleApplication1\枚举类型\obj\Debug\枚举类型.pdb

@@ -1,0 +1,12 @@
+E:\C#\网络编程复习\聊天室-socket-tcp服务器端\bin\Debug\聊天室-socket-tcp服务器端.exe.config
+E:\C#\网络编程复习\聊天室-socket-tcp服务器端\bin\Debug\聊天室-socket-tcp服务器端.exe
+E:\C#\网络编程复习\聊天室-socket-tcp服务器端\bin\Debug\聊天室-socket-tcp服务器端.pdb
+E:\C#\网络编程复习\聊天室-socket-tcp服务器端\obj\Debug\聊天室-socket-tcp服务器端.csprojResolveAssemblyReference.cache
+E:\C#\网络编程复习\聊天室-socket-tcp服务器端\obj\Debug\聊天室-socket-tcp服务器端.exe
+E:\C#\网络编程复习\聊天室-socket-tcp服务器端\obj\Debug\聊天室-socket-tcp服务器端.pdb
+C:\code\C#\网络编程复习\聊天室-socket-tcp服务器端\bin\Debug\聊天室-socket-tcp服务器端.exe.config
+C:\code\C#\网络编程复习\聊天室-socket-tcp服务器端\obj\Debug\聊天室-socket-tcp服务器端.exe
+C:\code\C#\网络编程复习\聊天室-socket-tcp服务器端\obj\Debug\聊天室-socket-tcp服务器端.pdb
+C:\code\C#\网络编程复习\聊天室-socket-tcp服务器端\bin\Debug\聊天室-socket-tcp服务器端.exe
+C:\code\C#\网络编程复习\聊天室-socket-tcp服务器端\bin\Debug\聊天室-socket-tcp服务器端.pdb
+C:\code\C#\网络编程复习\聊天室-socket-tcp服务器端\obj\Debug\聊天室-socket-tcp服务器端.csprojResolveAssemblyReference.cache

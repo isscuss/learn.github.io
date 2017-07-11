@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication2\列表的创建和使用\bin\Debug\列表的创建和使用.exe.config
+E:\C#\ConsoleApplication2\列表的创建和使用\bin\Debug\列表的创建和使用.exe
+E:\C#\ConsoleApplication2\列表的创建和使用\bin\Debug\列表的创建和使用.pdb
+E:\C#\ConsoleApplication2\列表的创建和使用\obj\Debug\列表的创建和使用.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication2\列表的创建和使用\obj\Debug\列表的创建和使用.exe
+E:\C#\ConsoleApplication2\列表的创建和使用\obj\Debug\列表的创建和使用.pdb

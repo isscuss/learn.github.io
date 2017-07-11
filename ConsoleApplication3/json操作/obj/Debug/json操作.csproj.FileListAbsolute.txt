@@ -1,0 +1,9 @@
+E:\C#\ConsoleApplication3\json操作\bin\Debug\json操作.exe.config
+E:\C#\ConsoleApplication3\json操作\bin\Debug\json技能信息.txt
+E:\C#\ConsoleApplication3\json操作\bin\Debug\json操作.exe
+E:\C#\ConsoleApplication3\json操作\bin\Debug\json操作.pdb
+E:\C#\ConsoleApplication3\json操作\bin\Debug\LitJson.dll
+E:\C#\ConsoleApplication3\json操作\obj\Debug\json操作.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\json操作\obj\Debug\json操作.exe
+E:\C#\ConsoleApplication3\json操作\obj\Debug\json操作.pdb
+E:\C#\ConsoleApplication3\json操作\bin\Debug\主角信息.txt

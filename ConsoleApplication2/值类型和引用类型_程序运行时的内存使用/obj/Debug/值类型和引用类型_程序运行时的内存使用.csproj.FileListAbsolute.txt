@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication2\值类型和引用类型_程序运行时的内存使用\bin\Debug\值类型和引用类型_程序运行时的内存使用.exe.config
+E:\C#\ConsoleApplication2\值类型和引用类型_程序运行时的内存使用\bin\Debug\值类型和引用类型_程序运行时的内存使用.exe
+E:\C#\ConsoleApplication2\值类型和引用类型_程序运行时的内存使用\bin\Debug\值类型和引用类型_程序运行时的内存使用.pdb
+E:\C#\ConsoleApplication2\值类型和引用类型_程序运行时的内存使用\obj\Debug\值类型和引用类型_程序运行时的内存使用.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication2\值类型和引用类型_程序运行时的内存使用\obj\Debug\值类型和引用类型_程序运行时的内存使用.exe
+E:\C#\ConsoleApplication2\值类型和引用类型_程序运行时的内存使用\obj\Debug\值类型和引用类型_程序运行时的内存使用.pdb

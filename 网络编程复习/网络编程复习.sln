@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Socket编程-tcp协议-服务器端", "Socket编程-tcp协议-服务器端\Socket编程-tcp协议-服务器端.csproj", "{68A549A2-22C4-43F0-AB58-86E406433360}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "聊天室-socket-tcp服务器端", "聊天室-socket-tcp服务器端\聊天室-socket-tcp服务器端.csproj", "{90BDAB26-81BF-4FD6-9ABD-4838E58C7A57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "udp协议-服务器端", "udp协议-服务器端\udp协议-服务器端.csproj", "{C783FEE5-0DA9-434E-B1B9-EE0109B26EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68A549A2-22C4-43F0-AB58-86E406433360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A549A2-22C4-43F0-AB58-86E406433360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A549A2-22C4-43F0-AB58-86E406433360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A549A2-22C4-43F0-AB58-86E406433360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90BDAB26-81BF-4FD6-9ABD-4838E58C7A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90BDAB26-81BF-4FD6-9ABD-4838E58C7A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90BDAB26-81BF-4FD6-9ABD-4838E58C7A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90BDAB26-81BF-4FD6-9ABD-4838E58C7A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C783FEE5-0DA9-434E-B1B9-EE0109B26EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C783FEE5-0DA9-434E-B1B9-EE0109B26EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C783FEE5-0DA9-434E-B1B9-EE0109B26EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C783FEE5-0DA9-434E-B1B9-EE0109B26EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

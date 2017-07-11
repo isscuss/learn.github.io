@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication3\Action委托\bin\Debug\Action委托.exe.config
+E:\C#\ConsoleApplication3\Action委托\bin\Debug\Action委托.exe
+E:\C#\ConsoleApplication3\Action委托\bin\Debug\Action委托.pdb
+E:\C#\ConsoleApplication3\Action委托\obj\Debug\Action委托.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\Action委托\obj\Debug\Action委托.exe
+E:\C#\ConsoleApplication3\Action委托\obj\Debug\Action委托.pdb

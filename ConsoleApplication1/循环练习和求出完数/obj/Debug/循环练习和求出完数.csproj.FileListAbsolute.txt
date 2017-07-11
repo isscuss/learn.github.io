@@ -1,0 +1,9 @@
+E:\C#\ConsoleApplication1\循环练习和求出完数\bin\Debug\循环练习和求出完数.exe.config
+E:\C#\ConsoleApplication1\循环练习和求出完数\bin\Debug\循环练习和求出完数.exe
+E:\C#\ConsoleApplication1\循环练习和求出完数\bin\Debug\循环练习和求出完数.pdb
+E:\C#\ConsoleApplication1\循环练习和求出完数\obj\Debug\循环练习和求出完数.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication1\循环练习和求出完数\obj\Debug\循环练习和求出完数.exe
+E:\C#\ConsoleApplication1\循环练习和求出完数\obj\Debug\循环练习和求出完数.pdb
+C:\code\C#\ConsoleApplication1\循环练习和求出完数\bin\Debug\循环练习和求出完数.exe.config
+C:\code\C#\ConsoleApplication1\循环练习和求出完数\obj\Debug\循环练习和求出完数.exe
+C:\code\C#\ConsoleApplication1\循环练习和求出完数\obj\Debug\循环练习和求出完数.pdb

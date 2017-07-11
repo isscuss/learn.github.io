@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication3\Assembly程序集类\bin\Debug\Assembly程序集类.exe.config
+E:\C#\ConsoleApplication3\Assembly程序集类\bin\Debug\Assembly程序集类.exe
+E:\C#\ConsoleApplication3\Assembly程序集类\bin\Debug\Assembly程序集类.pdb
+E:\C#\ConsoleApplication3\Assembly程序集类\obj\Debug\Assembly程序集类.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\Assembly程序集类\obj\Debug\Assembly程序集类.exe
+E:\C#\ConsoleApplication3\Assembly程序集类\obj\Debug\Assembly程序集类.pdb

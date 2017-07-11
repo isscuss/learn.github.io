@@ -1,0 +1,6 @@
+E:\C#\数据结构\直接插入排序\bin\Debug\直接插入排序.exe.config
+E:\C#\数据结构\直接插入排序\bin\Debug\直接插入排序.exe
+E:\C#\数据结构\直接插入排序\bin\Debug\直接插入排序.pdb
+E:\C#\数据结构\直接插入排序\obj\Debug\直接插入排序.csprojResolveAssemblyReference.cache
+E:\C#\数据结构\直接插入排序\obj\Debug\直接插入排序.exe
+E:\C#\数据结构\直接插入排序\obj\Debug\直接插入排序.pdb

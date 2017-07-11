@@ -1,0 +1,5 @@
+E:\C#\ConsoleApplication1\判断是否是回文串\bin\Debug\判断是否是回文串.exe.config
+E:\C#\ConsoleApplication1\判断是否是回文串\bin\Debug\判断是否是回文串.exe
+E:\C#\ConsoleApplication1\判断是否是回文串\bin\Debug\判断是否是回文串.pdb
+E:\C#\ConsoleApplication1\判断是否是回文串\obj\Debug\判断是否是回文串.exe
+E:\C#\ConsoleApplication1\判断是否是回文串\obj\Debug\判断是否是回文串.pdb

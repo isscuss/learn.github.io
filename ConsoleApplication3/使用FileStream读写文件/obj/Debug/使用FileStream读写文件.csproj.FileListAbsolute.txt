@@ -1,0 +1,8 @@
+E:\C#\ConsoleApplication3\使用FileStream读写文件\bin\Debug\使用FileStream读写文件.exe.config
+E:\C#\ConsoleApplication3\使用FileStream读写文件\bin\Debug\TextFile1.txt
+E:\C#\ConsoleApplication3\使用FileStream读写文件\bin\Debug\使用FileStream读写文件.exe
+E:\C#\ConsoleApplication3\使用FileStream读写文件\bin\Debug\使用FileStream读写文件.pdb
+E:\C#\ConsoleApplication3\使用FileStream读写文件\obj\Debug\使用FileStream读写文件.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\使用FileStream读写文件\obj\Debug\使用FileStream读写文件.exe
+E:\C#\ConsoleApplication3\使用FileStream读写文件\obj\Debug\使用FileStream读写文件.pdb
+E:\C#\ConsoleApplication3\使用FileStream读写文件\bin\Debug\Different Heaven - OMG  NCS Release .mp3

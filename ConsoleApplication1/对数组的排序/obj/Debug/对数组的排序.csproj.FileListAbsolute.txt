@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication1\对数组的排序\bin\Debug\对数组的排序.exe.config
+E:\C#\ConsoleApplication1\对数组的排序\obj\Debug\对数组的排序.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication1\对数组的排序\bin\Debug\对数组的排序.exe
+E:\C#\ConsoleApplication1\对数组的排序\bin\Debug\对数组的排序.pdb
+E:\C#\ConsoleApplication1\对数组的排序\obj\Debug\对数组的排序.exe
+E:\C#\ConsoleApplication1\对数组的排序\obj\Debug\对数组的排序.pdb

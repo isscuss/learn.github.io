@@ -1,0 +1,6 @@
+E:\C#\ConsoleApplication3\任务的连续和父子层次结构\bin\Debug\任务的连续和父子层次结构.exe.config
+E:\C#\ConsoleApplication3\任务的连续和父子层次结构\bin\Debug\任务的连续和父子层次结构.exe
+E:\C#\ConsoleApplication3\任务的连续和父子层次结构\bin\Debug\任务的连续和父子层次结构.pdb
+E:\C#\ConsoleApplication3\任务的连续和父子层次结构\obj\Debug\任务的连续和父子层次结构.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleApplication3\任务的连续和父子层次结构\obj\Debug\任务的连续和父子层次结构.exe
+E:\C#\ConsoleApplication3\任务的连续和父子层次结构\obj\Debug\任务的连续和父子层次结构.pdb
